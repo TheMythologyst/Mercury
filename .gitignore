@@ -5,3 +5,7 @@ bin-int/
 
 # Files
 *.user
+
+Mercury/~AutoRecover.Mercury.vcxproj
+Sandbox/~AutoRecover.Sandbox.vcxproj
+Sandbox/~AutoRecover.Sandbox.vcxproj

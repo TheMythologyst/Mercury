@@ -1,0 +1,3 @@
+[submodule "Mercury/vendor/spdlog"]
+	path = Mercury/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
